@@ -40,14 +40,14 @@ List of CAD files needed
 ## 3D printing parts
 All 3D printed parts were printed on a Ultimaker 3 printer (Ultimaker) using PLA or ABS plastic.
 
-Part | Material 1 | Material 2 | Nozzle 1 size | Nozzle 2 size
-----|------------|------------|---------------|---------------|
-Casing_Top | PLA | PVA | 0.4 mm | 0.4 mm
-Casing_Bottom | PLA | PVA | 0.4 mm | 0.4 mm
-Switch_Body | PLA | N/A | 0.25 mm | N/A
-Shutter_Blade | PLA | N/A | 0.25 mm | N/A
-Shutter_Cap | PLA | N/A | 0.25 mm | N/A
-Button_Cap | PLA | N/A | 0.25 mm | N/A
+Part | Material 1 | Material 2 | Nozzle 1 size | Nozzle 2 size | Layer height | Vertical axis
+----|------------|------------|---------------|---------------|--------------|---------------|
+Casing_Top | PLA | PVA | 0.4 mm | 0.4 mm | 0.2 mm | +Y
+Casing_Bottom | PLA | PVA | 0.4 mm | 0.4 mm | 0.2 mm | -Y
+Switch_Body | PLA | - | 0.25 mm | - | 0.1 mm
+Shutter_Blade | PLA | - | 0.25 mm | - | 0.06 mm
+Shutter_Cap | PLA | - | 0.25 mm | - | 0.06 mm
+Button_Cap | PLA | PVA | 0.25 mm | 0.4 mm | 0.1 mm
 
 Main 3D printing parameters
 
