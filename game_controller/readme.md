@@ -50,7 +50,7 @@ All 3D printed parts were printed on a Ultimaker 3 printer (Ultimaker) using PLA
 5. Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
 6. Fix second end of plastic hoses to extrusions on part *Casing_Bottom*
 
-<img src="Fiber_Sheath_Assembly.PNG" alt="Fiber_Sheath_Assembly" width="600"/>
+<img src="Fiber_Sheath_Assembly.png" alt="Fiber_Sheath_Assembly" width="600"/>
 
 Fiber_Sheath_Assembly
 
