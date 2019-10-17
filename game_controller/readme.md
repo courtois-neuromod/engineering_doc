@@ -14,6 +14,9 @@ Polycarbonate Pan Head Philips Screw 8-32 x 1" | | McMaster-Carr||93140A782
 Polycarbonate Pan Head Philips Screw 8-32 x 1/2" | | McMaster-Carr||93140A588
 Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4"||McMaster-Carr||96110A026
 
+Other:
+- Silicone membrane from discarded computer keyboard
+
 # Mechanical
 
 ## Required
@@ -44,14 +47,18 @@ Part | Material 1 | Material 2 | Nozzle 1 size | Nozzle 2 size | Layer height | 
 ----|------------|------------|---------------|---------------|--------------|---------------|
 Casing_Top | PLA | PVA | 0.4 mm | 0.4 mm | 0.2 mm | +Y
 Casing_Bottom | PLA | PVA | 0.4 mm | 0.4 mm | 0.2 mm | -Y
-Switch_Body | PLA | - | 0.25 mm | - | 0.1 mm
-Shutter_Blade | PLA | - | 0.25 mm | - | 0.06 mm
-Shutter_Cap | PLA | - | 0.25 mm | - | 0.06 mm
-Button_Cap | PLA | PVA | 0.25 mm | 0.4 mm | 0.1 mm
+Switch_Body | PLA | - | 0.25 mm | - | 0.1 mm | +Y
+Shutter_Blade | PLA | - | 0.25 mm | - | 0.06 mm | +Z
+Shutter_Cap | PLA | - | 0.25 mm | - | 0.06 mm | -Y
+Button_Cap | PLA | PVA | 0.25 mm | 0.4 mm | 0.1 mm | +Y
+DPad_Support | PLA | PVA | 0.4 mm | 0.4 mm | 0.1 mm | +Y
+DPad_Cross | PLA | PVA | 0.4 mm | 0.4 mm | 0.1 mm | +Y
 
 Main 3D printing parameters
 
 
+## Silicone membranes
+Use sharp Xacto knife to cut free the silicone dome used to push the keys upward after a keystroke. Carefully cut away the center of the top part to leave hole for shutter.
 
 ## Assembly
 
