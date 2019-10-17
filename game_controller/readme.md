@@ -23,35 +23,39 @@ Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4"||McMaster-Carr||96110A026
 
 List of CAD files needed
 1. Casing_Top
--  Casing_Bottom
-- Switch_Body
-- Shutter_Blade
-- Shutter_Cap
-- Button_Cap
-- DPad_Support
-- DPad_Cross
-- Y_Splitter (optional)
-- Interface_Casing_Top
-- Interface_Casing_Bottom
-- Fiber_Cutting_Block
-- Fiber_Polishing_Tool
+2.  Casing_Bottom
+3. Switch_Body
+4. Shutter_Blade
+5. Shutter_Cap
+6. Button_Cap
+7. DPad_Support
+8. DPad_Cross
+9. Y_Splitter
+10. Interface_Casing_Top
+11. Interface_Casing_Bottom
+12. Fiber_Cutting_Block
+13. Fiber_Polishing_Tool
 
 ## 3D printing parts
 All 3D printed parts were printed on a Ultimaker 3 printer (Ultimaker) using PLA or ABS plastic.
 
 ## Assembly
 1. For each control on the controller, cut one length of duplex fiber optic to desired length between controller and interface module + 150 mm
-- Split each length of fiber on its length to separate the 2 fibers on a distance of approx. 750 mm from one end, and 25 mm from second end
-- Label each fiber with the name of matching control. On the end where the fibers are split for the largest distance (controller end) place a label on each single fiber
-- Strip and polish fibers **(need procedure)**
-- Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
-- Fix second end of plastic hoses to extrusions on part *Casing_Bottom*
-- For each control, place a *Switch_Body* in matching groove inside casing
-- Insert the fiber optics into Y splitter and push gently until both fibers emerge inside of casing. Make sure that the length protruding inside the casing is enough to reach into the corresponding *Switch_Module* and allow to lay out cleanly inside casing.
-- For each control, glue both fibers in place **(Need glue specs)**
-- Optional: Depending on the fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
+2. Split each length of fiber on its length to separate the 2 fibers on a distance of approx. 750 mm from one end, and 25 mm from second end
+3. Label each fiber with the name of matching control. On the end where the fibers are split for the largest distance (controller end) place a label on each single fiber
+4. Strip and polish fibers **(need procedure)**
+5. Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
+6. Fix second end of plastic hoses to extrusions on part *Casing_Bottom*
+7. For each control, place a *Switch_Body* in matching groove inside casing
+8. Insert the fiber optics into Y splitter and push gently until both fibers emerge inside of casing. Make sure that the length protruding inside the casing is enough to reach into the corresponding *Switch_Module* and allow to lay out cleanly inside casing.
+9. For each control, glue both fibers in place **(Need glue specs)**
+10. Optional: Depending on the fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
 
-![Fiber_Sheath_Assembly.png](Fiber_Sheath_Assembly.png)
+
+<img src="Fiber_Sheath_Assembly.png" alt="Fiber_Sheath_Assembly" width="800"/>
+
+Fiber_Sheath_Assembly
+
 
 # Electronics
 
