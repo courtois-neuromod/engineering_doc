@@ -50,11 +50,15 @@ All 3D printed parts were printed on a Ultimaker 3 printer (Ultimaker) using PLA
 5. Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
 6. Fix second end of plastic hoses to extrusions on part *Casing_Bottom*
 
-<img src="Fiber_Sheath_Assembly.png" alt="Fiber_Sheath_Assembly" width="800"/>
+<img src="Fiber_Sheath_Assembly.PNG" alt="Fiber_Sheath_Assembly" width="600"/>
 
 Fiber_Sheath_Assembly
 
-7. For each control, place a *Switch_Body* in matching groove inside casing
+7. For each control, place a *Switch_Body* in matching groove inside casing. Orient
+
+<img src="Switch_Body_Positioning.png" alt="Switch_Body_Positioning" width="600"/>
+
+
 8. Insert the fiber optics into Y splitter and push gently until both fibers emerge inside of casing. Make sure that the length protruding inside the casing is enough to reach into the corresponding *Switch_Module* and allow to lay out cleanly inside casing.
 9. For each control, glue both fibers in place **(Need glue specs)**
 10. Optional: Depending on fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
