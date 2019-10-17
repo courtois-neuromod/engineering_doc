@@ -23,7 +23,7 @@ Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4"||McMaster-Carr||96110A026
 
 List of CAD files needed
 1. Casing_Top
-2.  Casing_Bottom
+2. Casing_Bottom
 3. Switch_Body
 4. Shutter_Blade
 5. Shutter_Cap
@@ -54,7 +54,7 @@ All 3D printed parts were printed on a Ultimaker 3 printer (Ultimaker) using PLA
 
 Fiber_Sheath_Assembly
 
-7. For each control, place a *Switch_Body* in matching groove inside casing. Orient
+7. For each control, place a *Switch_Body* in matching groove inside casing.
 
 <img src="Switch_Body_Positioning.png" alt="Switch_Body_Positioning" width="600"/>
 
@@ -62,6 +62,9 @@ Fiber_Sheath_Assembly
 8. Insert the fiber optics into Y splitter and push gently until both fibers emerge inside of casing. Make sure that the length protruding inside the casing is enough to reach into the corresponding *Switch_Module* and allow to lay out cleanly inside casing.
 9. For each control, glue both fibers in place **(Need glue specs)**
 10. Optional: Depending on fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
+11. Place one threaded Nylon insert in each mounting post of part *Casing_Top*. If inserts don't fit inside, drill hole using 1/4" (6.35 mm) bit. If inserts are loose, use a drop of cyanoacrylate adhesive
+
+  <img src="Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/>
 
 
 ### Interface enclosure
