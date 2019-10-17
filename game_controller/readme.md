@@ -40,6 +40,19 @@ List of CAD files needed
 ## 3D printing parts
 All 3D printed parts were printed on a Ultimaker 3 printer (Ultimaker) using PLA or ABS plastic.
 
+Part | Material 1 | Material 2 | Nozzle 1 size | Nozzle 2 size
+----|------------|------------|---------------|---------------|
+Casing_Top | PLA | PVA | 0.4 mm | 0.4 mm
+Casing_Bottom | PLA | PVA | 0.4 mm | 0.4 mm
+Switch_Body | PLA | N/A | 0.25 mm | N/A
+Shutter_Blade | PLA | N/A | 0.25 mm | N/A
+Shutter_Cap | PLA | N/A | 0.25 mm | N/A
+Button_Cap | PLA | N/A | 0.25 mm | N/A
+
+Main 3D printing parameters
+
+
+
 ## Assembly
 
 ### Controller
@@ -62,7 +75,7 @@ Fiber_Sheath_Assembly
 8. Insert the fiber optics into Y splitter and push gently until both fibers emerge inside of casing. Make sure that the length protruding inside the casing is enough to reach into the corresponding *Switch_Module* and allow to lay out cleanly inside casing.
 9. For each control, glue both fibers in place **(Need glue specs)**
 10. Optional: Depending on fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
-11. Place one threaded Nylon insert in each mounting post of part *Casing_Top*. If inserts don't fit inside, drill hole using 1/4" (6.35 mm) bit. If inserts are loose, use a drop of cyanoacrylate adhesive
+11. Place one threaded Nylon insert in each mounting post of part *Casing_Top*. If inserts don't fit inside, re-drill hole using 1/4" (6.35 mm) bit. If inserts are loose, use a drop of cyanoacrylate adhesive
 
   <img src="Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/>
 
