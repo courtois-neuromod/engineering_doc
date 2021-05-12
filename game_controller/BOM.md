@@ -1,4 +1,6 @@
 # Bill of materials
+Prices in Canadian dollars (May 2021)
+
 Part | Manufacturer | Supplier | Manufacturer part no. | Supplier part no. | Price | Qty
 -----|--------------|----------|-----------------------|-------------------|-------|-
 **Electronics**
@@ -17,11 +19,13 @@ Capacitor ceramic 10 µF | KEMET | Digikey | C324C106K3R5TA | 	[399-13950-ND](ht
 Connector header pin breakaway 24 pos |TE Connectivity AMP Connectors | Digikey | 4-102972-0-24 | 	[A26519-24-ND](https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/4-102972-0-24/683577) | $3.32 | 4 |
 Connector receptacle 24 pos |3M | Digikey | 929850-01-24-RA | 	[929850E-01-24-ND](https://www.digikey.ca/en/products/detail/3m/929850-01-24-RA/1094205) | $4.07 | 2 |
 **Hardware**
-Polycarbonate Pan Head Philips Screw 8-32 x 1" | | McMaster-Carr| |[93140A782](https://www.mcmaster.com/93140A782) | $16.49 / pack of 25| 2
-Polycarbonate Pan Head Philips Screw 8-32 x 1/2" | | McMaster-Carr | |[93140A588](https://www.mcmaster.com/93140A588) | $16.49 / pack of 25| 3
-Polycarbonate Pan Head Philips Screw 4-40 x 3/16""| | McMaster-Carr | | [93140A403](https://www.mcmaster.com/93140A403)| $19.09 / pack of 50| 8
-Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4"| | McMaster-Carr| |[96110A026](https://www.mcmaster.com/96110A026) | $1.48| 5
+Polycarbonate Pan Head Philips Screw 8-32 x 1" <sup>3</sup>| | McMaster-Carr| |[93140A782](https://www.mcmaster.com/93140A782) | $16.49 / pack of 25| 2
+Polycarbonate Pan Head Philips Screw 8-32 x 1/2" <sup>3</sup>| | McMaster-Carr | |[93140A588](https://www.mcmaster.com/93140A588) | $16.49 / pack of 25| 3
+Polycarbonate Pan Head Philips Screw 4-40 x 3/16" <sup>4</sup>| | McMaster-Carr | | [93140A403](https://www.mcmaster.com/93140A403)| $19.09 / pack of 50| 8
+Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4" <sup>3</sup>| | McMaster-Carr| |[96110A026](https://www.mcmaster.com/96110A026) | $1.48| 5
 Nylon 6/6 Female Threaded Round Standoff 4-40 x 1/8"| | McMaster-Carr| |[96110A001](https://www.mcmaster.com/96110A001) | $1.71| 8
 
 1 : Actual manufacturer is [PJRC](https://www.pjrc.com/). SparkFun is Digikey's supplier
 2 : Optional
+3 : Metric equivalent M4 thread
+4 : Metric equivalent M2.5 thread
