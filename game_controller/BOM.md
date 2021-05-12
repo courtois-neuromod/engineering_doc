@@ -23,5 +23,5 @@ Polycarbonate Pan Head Philips Screw 4-40 x 3/16""| | McMaster-Carr | | [93140A4
 Nylon 6/6 Female Threaded Round Standoff 8-32 x 1/4"| | McMaster-Carr| |[96110A026](https://www.mcmaster.com/96110A026) | $1.48| 5
 Nylon 6/6 Female Threaded Round Standoff 4-40 x 1/8"| | McMaster-Carr| |[96110A001](https://www.mcmaster.com/96110A001) | $1.71| 8
 
-1 : Actual manufacturer is [PJRC](https://www.pjrc.com/). Listed as per Digikey's website.
+1 : Actual manufacturer is [PJRC](https://www.pjrc.com/). SparkFun is Digikey's supplier
 2 : Optional
