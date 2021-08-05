@@ -20,8 +20,8 @@ List of CAD files needed
 7. [DPad_Support](CAD/stl/DPad_Support.zip)
 8. [Dir_Button](CAD/stl/Dir_Button.zip)
 9. Y_Splitter
-10. Interface_Casing_Top
-11. Interface_Casing_Bottom
+10. [Interface_Casing_Top](CAD/stl/Interface_Top.zip)
+11. [Interface_Casing_Bottom](CAD/stl/Interface_Bottom.zip)
 12. Fiber_Cutting_Block
 13. Fiber_Polishing_Tool
 
