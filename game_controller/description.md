@@ -66,20 +66,7 @@ Other:
 ### CAD
 All parts were designed using Autodesk Fusion 360.
 
-List of CAD files needed
-1. [Casing_Top](stl/Top.zip)
-2. [Casing_Bottom](stl/Bottom.zip)
-3. [Switch_Body](stl/Switch_Body.zip)
-4. [Shutter_Blade](stl/Shutter_Blade.zip)
-5. [Shutter_Cap](stl/Shutter_cap.zip)
-6. [Button_Cap](stl/Button_Cap.zip)
-7. [DPad_Support](stl/DPad_Support.zip)
-8. [Dir_Button](stl/Dir_Button.zip)
-9. Y_Splitter
-10. Interface_Casing_Top
-11. Interface_Casing_Bottom
-12. Fiber_Cutting_Block
-13. Fiber_Polishing_Tool
+
 
 
 ## 3D printing parts
