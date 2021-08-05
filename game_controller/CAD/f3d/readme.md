@@ -2,5 +2,4 @@ This folder contains native CAD files for the project. The controller was design
 
 List of files:
 
-[Parametric design for the shutter part](/Shutter_Cap _parametric.f3d)
-  
+[Parametric design for the shutter part](Shutter_Cap _parametric.f3d)
