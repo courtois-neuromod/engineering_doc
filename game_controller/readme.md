@@ -25,19 +25,12 @@ List of CAD files needed
 12. Fiber_Cutting_Block
 13. Fiber_Polishing_Tool
 
-### 3D printing the parts
-### Outsourcing
-
-## Printed circuit board
-This section details how to obtain the printed circuit board (PCB) for the interface module.
-
-# Required
 
 # Assembly
 
 ## Controller
 
-### Switch body Assembly
+### Optical switches
 
 <img src="img/Switch_exploded.png" alt="Switch assembly exploded view" width="600"/>
 
@@ -76,10 +69,3 @@ Fiber_Sheath_Assembly
 13. Place one threaded Nylon insert in each mounting post of part *Casing_Top*. If inserts don't fit inside, re-drill hole using 1/4" (6.35 mm) bit. If inserts are loose, use a drop of cyanoacrylate adhesive
 
 <img src="img/Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/>
-
-
-## Case
-
-## PCB
-
-# Programming
