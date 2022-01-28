@@ -44,11 +44,13 @@ Disassemble a discarded computer keyboard to recuperate the membrane making the 
 
 <img src="img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
 
+Test assembly of shutter - membrane - switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed, but leave it free when in upward position. The distance between the bottom
+ of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be. 
+
 <img src="img/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
 
 
 <img src="img/Switch_exploded.png" alt="" width="600"/>
-
 Ensure that the air gap and the fiber optic guide in the 3D printed switch bodies are free of any residual PLA or support material. Hold switch body in front of a light source and check along Z axis for the air gap, and along horizontal axis for the fiber optic guide.
 
 <img src="img/Air_Gap_Visual_Check" alt="Air Gap Visual Check" width="600"/>
