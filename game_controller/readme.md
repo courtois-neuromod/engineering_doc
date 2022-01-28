@@ -34,14 +34,16 @@ List of CAD files needed
 
 #### Shutter assembly
 
-Check both shutter blade and shutter cap for smoothness of surface and file or sand any rough surface. Test insertion of blade into slot at the bottom of shutter cap. It should slide to the bottom easily but you should still feel a bit of resistance.Put a drop o cyanoacrylate adhesive on a liquid tight surface, dip the end of shutter blade in adhesive and insert into slot at bottom of shutter cap.
+Check both shutter blade and shutter cap for smoothness of surface and file or sand any rough surface. Test insertion of blade into slot at the bottom of shutter cap. It should slide to the bottom easily but you should still feel a bit of resistance. Put a drop of cyanoacrylate adhesive on a liquid tight surface, dip the end of shutter blade in adhesive and insert into slot at bottom of shutter cap.
 
 Shutter assembly drawing | Shutter assembly exemple
 ---|---
 <img src="img/Shutter_Assembly.png" alt="Switch assembly exploded view" width="400"/> |<img src="img/Shutter_Assembly_demo.jpg" alt="Switch assembly exploded view" width="400"/>
 
+<img src="img/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
 
-<img src="img/Switch_exploded.png" alt="Switch assembly exploded view" width="600"/>
+
+<img src="img/Switch_exploded.png" alt="" width="600"/>
 
 Ensure that the air gap and the fiber optic guide in the 3D printed switch bodies are free of any residual PLA or support material. Hold switch body in front of a light source and check along Z axis for the air gap, and along horizontal axis for the fiber optic guide.
 
