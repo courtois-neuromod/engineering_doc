@@ -40,6 +40,8 @@ Shutter assembly drawing | Shutter assembly exemple
 ---|---
 <img src="img/Shutter_Assembly.png" alt="Switch assembly exploded view" width="400"/> |<img src="img/Shutter_Assembly_demo.jpg" alt="Switch assembly exploded view" width="400"/>
 
+<img src="img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
+
 <img src="img/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
 
 
