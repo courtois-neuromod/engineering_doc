@@ -61,14 +61,6 @@ Test assembly of shutter, membrane and switch body by inserting the shutter by i
 <img src="img/Switch_exploded.png" alt="" width="600"/>
 Ensure that the air gap and the fiber optic guide in the 3D printed switch bodies are free of any residual PLA or support material. Hold switch body in front of a light source and check along Z axis for the air gap, and along horizontal axis for the fiber optic guide.
 
-<img src="img/Air_Gap_Visual_Check" alt="Air Gap Visual Check" width="600"/>
-
-<img src="img/Fiber_guide_Visual_Check" alt="Fiber Guide Visual Check" width="600"/>
-
-<img src="img/Optical_Switch_Section_View" alt="Optical Switch Section_View" width="600"/>
-
-
-
 ### Controller body
 
 1. For each control on the controller, cut one length of duplex fiber optic to desired length between controller and interface module + 150 mm
