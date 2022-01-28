@@ -44,8 +44,8 @@ Disassemble a discarded computer keyboard to recuperate the membrane making the 
 
 <img src="img/silicone_membrane.jpg" alt="Silicone membrane" width="600"/>
 
-Test assembly of shutter - membrane - switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed, but leave it free when in upward position. The distance between the bottom
- of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be. 
+Test assembly of shutter, membrane and switch body by inserting the shutter by inserting the shutter blade into the empty centre part of rubber dome, then into gap at the top of switch body. The shutter blade should completely occult the guide hole for the fiber optic when button is pressed, but leave it free when in upward position. The distance between the bottom
+ of the shutter cap and the top of switch body will determine the stroke length of the key. The smaller this distance, the more responsive the controls will be.
 
 <img src="img/Switch_Assembly_Drawing.png" alt="Air Gap Visual Check" width="600"/>
 
