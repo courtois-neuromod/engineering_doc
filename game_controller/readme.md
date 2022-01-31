@@ -34,6 +34,20 @@ List of CAD files needed
 
 #### Shutter assembly
 
+Required:
+
+Parts
+  - Shutter_Blade x 8
+  - Shutter_Cap x 8
+  - Switch_Body x 8
+
+Tools
+  - Cyanoacrylate adhesive
+  - Fine sanding paper or files
+  - X-acto knife
+
+
+
 Check both shutter blade and shutter cap for smoothness of surface and file or sand any rough surface. Test insertion of blade into slot at the bottom of shutter cap. It should slide to the bottom easily but you should still feel a bit of resistance. Put a drop of cyanoacrylate adhesive on a liquid tight surface, dip the end of shutter blade in adhesive and insert into slot at bottom of shutter cap.
 
 Shutter assembly drawing | Shutter assembly exemple
