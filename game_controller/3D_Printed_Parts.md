@@ -17,7 +17,7 @@ This file details the list of 3D printed parts required to build the controller 
 13. Fiber_Polishing_Tool
 
 ## Casing_Top
-Casing_Top.stl | <img src="img/Casing_Top.png" alt="Switch assembly exploded view" width="200"/>
+Casing_Top.stl | <img src="img/Casing_Top.png" alt="Casing Top" width="200"/>
 ------|--------
 Weight|53.8 g
 Volume|46.4 cm<sup>3</sup>
@@ -37,7 +37,7 @@ Print direction | +Y
 Comments
 
 ## Casing_Bottom
-Casing_Bottom.stl | <img src="img/Casing_Bottom.png" alt="Switch assembly exploded view" width="200"/>
+Casing_Bottom.stl | <img src="img/Casing_Bottom.png" alt="Casing Bottom" width="200"/>
 ------|--------
 Weight|107.9 g
 Volume|87.0 cm<sup>3</sup>
@@ -57,7 +57,7 @@ Print direction | -Y
 Comments
 
 ## Switch_Body
-Switch_Body.stl | <img src="img/Switch_Body.png" alt="Switch assembly exploded view" width="200"/>
+Switch_Body.stl | <img src="img/Switch_Body.png" alt="Switch Body" width="200"/>
 ------|--------
 Weight|3.6 g
 Volume|2.9 cm<sup>3</sup>
@@ -77,7 +77,7 @@ Print direction | +Y
 Comments|
 
 ## Shutter_Cap
-Shutter_Cap.stl | <img src="img/Shutter_Cap.png" alt="Switch assembly exploded view" width="200"/>
+Shutter_Cap.stl | <img src="img/Shutter_Cap.png" alt="Shutter Cap" width="200"/>
 ------|--------
 Weight|0.19 g
 Volume|0.15 cm<sup>3</sup>
@@ -94,4 +94,24 @@ Nozzle 2 temperature | -
 Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | -Y
+Comments|
+
+## Shutter_Blade
+Shutter_Blade.stl | <img src="img/Shutter_Blade.png" alt="Shutter_Blade" width="200"/>
+------|--------
+Weight|0.014 g
+Volume|0.0012 cm<sup>3</sup>
+Bounding box | 0.5 x 11.7 x 2.2 mm
+Qty | 8
+Material 1 | PLA
+Material 2 (support) | -
+Material 1 density | 100%
+Material 2 density | -
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | -
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | -
+Bed temperature | 50 °C
+Layer height | 0.06 mm
+Print direction | +X
 Comments|
