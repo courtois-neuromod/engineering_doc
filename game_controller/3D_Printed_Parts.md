@@ -55,3 +55,23 @@ Bed temperature | 50 °C
 Layer height | 0.15 mm
 Print direction | -Y
 Comments
+
+## Switch_Body
+Switch_Body.stl | <img src="img/Switch_Body.png" alt="Switch assembly exploded view" width="200"/>
+------|--------
+Weight|3.6 g
+Volume|2.9 cm<sup>3</sup>
+Bounding box | 16.0 x 18.5  x 16.0 mm
+Qty | 8
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 100%
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.1 mm
+Print direction | +Y
+Comments
