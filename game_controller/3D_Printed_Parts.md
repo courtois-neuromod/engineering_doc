@@ -114,4 +114,24 @@ Nozzle 2 temperature | -
 Bed temperature | 50 °C
 Layer height | 0.06 mm
 Print direction | +X
-Comments|
+Comments | This works better if printed with dark (ideally black) material
+
+## DPad_Support
+DPad_Support.stl | <img src="img/DPad_Support.png" alt="Directional Pad Support" width="200"/>
+------|--------
+Weight|14.6 g
+Volume|11.8 cm<sup>3</sup>
+Bounding box | 46.9 x 13.2  x 48.5 mm
+Qty | 1
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 30%
+Nozzle 1 size | 0.4 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.1 mm
+Print direction | +Y
+Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files recommended.
