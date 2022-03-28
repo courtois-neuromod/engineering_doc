@@ -20,7 +20,7 @@ This file details the list of 3D printed parts required to build the controller 
 Casing_Top.stl | <img src="img/Casing_Top.png" alt="Switch assembly exploded view" width="200"/>
 ------|--------
 Weight|53.8 g
-Volume|46.4 cm3
+Volume|46.4 cm<sup>3</sup>
 Bounding box | 155.4 x 43.5 x 94.9 mm
 Qty | 1
 Material 1 | PLA
@@ -34,4 +34,24 @@ Nozzle 2 temperature | 230 °C
 Bed temperature | 50 °C
 Layer height | 0.15 mm
 Print direction | +Y
+Comments
+
+## Casing_Bottom
+Casing_Bottom.stl | <img src="img/Casing_Bottom.png" alt="Switch assembly exploded view" width="200"/>
+------|--------
+Weight|107.9 g
+Volume|87.0 cm<sup>3</sup>
+Bounding box | 169.8 x 58.8 x 95.1 mm
+Qty | 1
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 40%
+Nozzle 1 size | 0.8 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.15 mm
+Print direction | -Y
 Comments
