@@ -17,7 +17,7 @@ This file details the list of 3D printed parts required to build the controller 
 13. Fiber_Polishing_Tool
 
 ## Casing_Top
-Casing_Top.stl | ![Casing_Top.png](/img/Casing_Top.png)
+Casing_Top.stl | <img src="img/Casing_Top.png" alt="Switch assembly exploded view" width="200"/>
 ------|--------
 Weight|53.8 g
 Volume|46.4 cm3
