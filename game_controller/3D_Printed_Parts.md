@@ -1,5 +1,7 @@
 This file details the list of 3D printed parts required to build the controller and gives information about the main printing parameters used. All parts were printed using an Ultimaker 3 [http://ultimaker.com](http://ultimaker.com) printer. The print direction given was set as the positive Z direction in the printer. So if the direction **+Y** is given, the positive Y direction from the .stl file was set as positive Z in the slicing software.
 
+Parts usually require a small amount of post finishing. A kit of fine grit detailing files like https://www.mcmaster.com/8174A42/ is very useful for that purpose.
+
 ## List of files
 
 1. [Casing_Top](CAD/stl/Top.zip)
@@ -134,4 +136,4 @@ Nozzle 2 temperature | 230 °C
 Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | +Y
-Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files recommended.
+Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended.
