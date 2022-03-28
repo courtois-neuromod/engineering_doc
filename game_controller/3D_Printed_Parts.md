@@ -75,3 +75,23 @@ Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | +Y
 Comments|
+
+## Shutter_Cap
+Shutter_Cap.stl | <img src="img/Shutter_Cap.png" alt="Switch assembly exploded view" width="200"/>
+------|--------
+Weight|0.19 g
+Volume|0.15 cm<sup>3</sup>
+Bounding box | 7.5 x 6.3  x 7.5 mm
+Qty | 8
+Material 1 | PLA
+Material 2 (support) | -
+Material 1 density | 100%
+Material 2 density | -
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | -
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | -
+Bed temperature | 50 °C
+Layer height | 0.1 mm
+Print direction | -Y
+Comments|
