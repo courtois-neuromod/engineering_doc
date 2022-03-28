@@ -8,23 +8,6 @@ Aside from the 3D printed equipment and printed circuit boards, the parts requir
 This section details the parts that need to be purchased directly from a supplier.
 [BOM.md](BOM.md)
 
-## 3D printed parts
-This section list the parts that needs to be 3D printed.
-List of CAD files needed
-1. [Casing_Top](CAD/stl/Top.zip)
-2. [Casing_Bottom](CAD/stl/Bottom.zip)
-3. [Switch_Body](CAD/stl/Switch_Body.zip)
-4. [Shutter_Blade](CAD/stl/Shutter_Blade.zip)
-5. [Shutter_Cap](CAD/stl/Shutter_cap.zip)
-6. [Button_Cap](CAD/stl/Button_Cap.zip)
-7. [DPad_Support](CAD/stl/DPad_Support.zip)
-8. [Dir_Button](CAD/stl/Dir_Button.zip)
-9. Y_Splitter
-10. [Interface_Casing_Top](CAD/stl/Interface_Top.zip)
-11. [Interface_Casing_Bottom](CAD/stl/Interface_Bottom.zip)
-12. Fiber_Cutting_Block
-13. Fiber_Polishing_Tool
-
 
 # Assembly
 
@@ -45,7 +28,6 @@ Tools
   - Cyanoacrylate adhesive
   - Fine sanding paper or files
   - X-acto knife
-
 
 
 Check both shutter blade and shutter cap for smoothness of surface and file or sand any rough surface. Test insertion of blade into slot at the bottom of shutter cap. It should slide to the bottom easily but you should still feel a bit of resistance. Put a drop of cyanoacrylate adhesive on a liquid tight surface, dip the end of shutter blade in adhesive and insert into slot at bottom of shutter cap.
