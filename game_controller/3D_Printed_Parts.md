@@ -64,14 +64,14 @@ Volume|2.9 cm<sup>3</sup>
 Bounding box | 16.0 x 18.5  x 16.0 mm
 Qty | 8
 Material 1 | PLA
-Material 2 (support) | PVA
+Material 2 (support) | same as material 1
 Material 1 density | 100%
-Material 2 density | 100%
+Material 2 density | 40%
 Nozzle 1 size | 0.25 mm
-Nozzle 2 size | 0.4 mm
+Nozzle 2 size | N/A
 Nozzle 1 temperature | 205 °C
-Nozzle 2 temperature | 230 °C
+Nozzle 2 temperature | N/A
 Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | +Y
-Comments
+Comments|
