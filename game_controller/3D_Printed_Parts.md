@@ -157,3 +157,23 @@ Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | +Y
 Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended. This part can be printed at lower than 100% density, but make sure that walls are thick enough. Cura's default with 0.4 mm nozzle is 1 mm. At least double that.
+
+## Direction_Button
+Direction_Button.stl | <img src="img/Direction_Button.png" alt="Direction_Button" width="200"/>
+------|--------
+Weight|1.6 g
+Volume|1.3 cm<sup>3</sup>
+Bounding box | 14.0 x 12.0  x 13.0 mm
+Qty | 4
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 30%
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.06 mm
+Print direction | +Y
+Comments | Precision of dimensions and finish quality are very important for this part. Fill percentage does not really matter, but this is a very small part, so material quantity and print time are both are not a problem.
