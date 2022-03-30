@@ -197,3 +197,43 @@ Bed temperature | 50 °C
 Layer height | 0.06 mm
 Print direction | +Y
 Comments | Precision of dimensions and finish quality are very important for this part. Fill percentage does not really matter, but this is a very small part, so material quantity and print time are both are not a problem.
+
+## DPad_Cover
+DPad_Cover.stl | <img src="img/DPad_Cover.png" alt="DPad_Cover" width="200"/>
+------|--------
+Weight|1.19 g
+Volume|0.96 cm<sup>3</sup>
+Bounding box | 10.65 x 13.0  x 13.5 mm
+Qty | 4
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 30%
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.06 mm
+Print direction | +Y
+Comments |
+
+## Button_Cover
+Button_Cover.stl <br> A.stl <br> B.stl <br> X.stl <br> Y.stl | <img src="img/Button_Cover.png" alt="Button_Cover" width="200"/>
+------|--------
+Weight|1.19 g
+Volume|0.96 cm<sup>3</sup>
+Bounding box | 10.65 x 13.0  x 13.5 mm
+Qty | 4
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 30%
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.06 mm
+Print direction | +Y
+Comments | This part uses 2 colors printing for the markings. You need to load 5 stl files in your slicer, assign each to the appropriate material, then merge them into one piece
