@@ -136,4 +136,4 @@ Nozzle 2 temperature | 230 °C
 Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | +Y
-Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended. This part can be printed at lower than 100%, but make sure that walls are thick enough. Cura's default with 0.4 mm nozzle is 1 mm, at least double that.
+Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended. This part can be printed at lower than 100% density, but make sure that walls are thick enough. Cura's default with 0.4 mm nozzle is 1 mm, at least double that.
