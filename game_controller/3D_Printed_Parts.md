@@ -177,3 +177,23 @@ Bed temperature | 50 °C
 Layer height | 0.06 mm
 Print direction | +Y
 Comments | Precision of dimensions and finish quality are very important for this part. Fill percentage does not really matter, but this is a very small part, so material quantity and print time are both are not a problem.
+
+## Round_Button
+Round_Button.stl | <img src="img/Round_Button.png" alt="Round_Button" width="200"/>
+------|--------
+Weight|1.19 g
+Volume|0.96 cm<sup>3</sup>
+Bounding box | 10.65 x 13.0  x 13.5 mm
+Qty | 4
+Material 1 | PLA
+Material 2 (support) | PVA
+Material 1 density | 100%
+Material 2 density | 30%
+Nozzle 1 size | 0.25 mm
+Nozzle 2 size | 0.4 mm
+Nozzle 1 temperature | 205 °C
+Nozzle 2 temperature | 230 °C
+Bed temperature | 50 °C
+Layer height | 0.06 mm
+Print direction | +Y
+Comments | Precision of dimensions and finish quality are very important for this part. Fill percentage does not really matter, but this is a very small part, so material quantity and print time are both are not a problem.
