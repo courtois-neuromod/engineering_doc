@@ -1,16 +1,16 @@
 This file details the list of 3D printed parts required to build the controller and gives information about the main printing parameters used. All parts were printed using an Ultimaker 3 [http://ultimaker.com](http://ultimaker.com) printer. The print direction given was set as the positive Z direction in the printer. So if the direction **+Y** is given, the positive Y direction from the .stl file was set as positive Z in the slicing software.
 
-Parts usually require a small amount of post finishing. A kit of fine grit detailing files like https://www.mcmaster.com/8174A42/ is very useful for that purpose.
+Parts usually require a small amount of post finishing. A kit of fine grit files like https://www.mcmaster.com/8174A42/ is very useful for that purpose.
 
 ## List of files
 
 1. [Casing_Top](CAD/stl/Top.zip)
 2. [Casing_Bottom](CAD/stl/Bottom.zip)
 3. [Switch_Body](CAD/stl/Switch_Body.zip)
-4. [Shutter_Blade](CAD/stl/Shutter_Blade.zip)
-5. [Shutter_Cap](CAD/stl/Shutter_cap.zip)
-6. [Button_Cap](CAD/stl/Button_Cap.zip)
-7. [DPad_Support](CAD/stl/DPad_Support.zip)
+4. [Shutter_Cap](CAD/stl/Shutter_cap.zip)
+5. [Shutter_Blade](CAD/stl/Shutter_Blade.zip)
+6. [DPad_Support](CAD/stl/DPad_Support.zip)
+7. [Button_Cap](CAD/stl/Button_Cap.zip)
 8. [Dir_Button](CAD/stl/Dir_Button.zip)
 9. Y_Splitter
 10. [Interface_Casing_Top](CAD/stl/Interface_Top.zip)
@@ -136,4 +136,4 @@ Nozzle 2 temperature | 230 °C
 Bed temperature | 50 °C
 Layer height | 0.1 mm
 Print direction | +Y
-Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended.
+Comments | Some post finishing of guiding slots may be required to get smooth button motion. Use of fine grit small detailing files or sanding paper recommended. This part can be printed at lower than 100%, but make sure that walls are thick enough. Cura's default with 0.4 mm nozzle is 1 mm, at least double that.
