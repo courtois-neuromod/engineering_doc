@@ -1,4 +1,4 @@
-This file details the list of 3D printed parts required to build the controller and gives information about the main printing parameters used. All parts were printed using an Ultimaker 3 [http://ultimaker.com](http://ultimaker.com) printer. The print direction given was set as the positive Z direction in the printer. So if the direction **+Y** is given, the positive Y direction from the .stl file was set as positive Z in the slicing software.
+This file details the list of 3D printed parts required to build the controller and gives information about the main printing parameters used. All parts were printed using an Ultimaker 3 [http://ultimaker.com](http://ultimaker.com) printer. The print direction given was set as the positive Z direction in the printer. So if the direction **+Y** is given, the positive Y direction from the .stl file was set as positive Z () in the slicing software.
 
 Parts usually require a small amount of post finishing. A kit of fine grit files like https://www.mcmaster.com/8174A42/ is very useful for that purpose.
 
@@ -13,11 +13,11 @@ Parts usually require a small amount of post finishing. A kit of fine grit files
 7. [Dir_Button](CAD/stl/Dir_Button.zip)
 8. [Button_Cap](CAD/stl/Button_Cap.zip)
 9. [DPad_Cover](CAD/stl/DPad_Cover.zip)
-10.[Button_Cover](CAD/stl/Buttons_Cover.zip)
-9. Y_Splitter
-10. [Interface_Casing_Top](CAD/stl/Interface_Top.zip)
-11. [Interface_Casing_Bottom](CAD/stl/Interface_Bottom.zip)
-12. Fiber_Cutting_Block
+10. [Button_Cover](CAD/stl/Buttons_Cover.zip)
+11. Y_Splitter
+12. [Interface_Casing_Top](CAD/stl/Interface_Top.zip)
+13. [Interface_Casing_Bottom](CAD/stl/Interface_Bottom.zip)
+14. Fiber_Cutting_Block
 
 ## Casing top
 [Top.zip](CAD/stl/Top.zip) | <img src="img/Casing_Top.png" alt="Casing Top" width="200"/>
