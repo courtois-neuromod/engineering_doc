@@ -63,7 +63,7 @@ Ensure that the air gap and the fiber optic guide in the 3D printed switch bodie
 1. For each control on the controller, cut one length of duplex fiber optic to desired length between controller and interface module + 150 mm
 2. Split each length of fiber on its length to separate the 2 fibers on a distance of approx. 750 mm from one end, and 25 mm from second end
 3. Label each fiber with the name of matching control. On the end where the fibers are split for the largest distance (controller end) place a label on each single fiber
-4. On the controller side of the fibers, make two bundles of fibers. Place one fiber of each control in either bundle.
+4. On the controller side of the fibers, make two bundles of fibers. Place one fiber of eac78h control in either bundle.
 5. For one of the two bundles, cut the fibers for the directional pad controls about 150 mm shorter than the ones for the buttons. Do the opposite with the other bundle. This will allow a cleaner layout of the fibers inside the casing.
 6. Strip and polish fibers **(need procedure)**
 7. Cut two 500 mm lengths of the 13 mm ID plastic hose and fix those on the ends of the Y splitter
@@ -83,4 +83,42 @@ Fiber_Sheath_Assembly
 12. Optional: Depending on fit tightness of *Switch_Module* parts inside grooves, it is also possible to glue the module in place. If gluing modules in place, wait for glue on fibers to set before proceeding
 13. Place one threaded Nylon insert in each mounting post of part *Casing_Top*. If inserts don't fit inside, re-drill hole using 1/4" (6.35 mm) bit. If inserts are loose, use a drop of cyanoacrylate adhesive
 
-<img src="img/Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/>
+<img src="img/Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/><br>
+
+<img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220321_144134479.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220321_184922653.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220322_141919955.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220322_173830800.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_120356872.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_120503073.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_120717804.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_171028876.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_171327664.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_171418885.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_171550344.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_172005029.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_172037025.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_172241888.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_172252091.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220323_173032643.jpg" alt="" width="600"/><br>
