@@ -122,3 +122,5 @@ Fiber_Sheath_Assembly
 <img src="img/PXL_20220323_172252091.jpg" alt="" width="600"/><br>
 
 <img src="img/PXL_20220323_173032643.jpg" alt="" width="600"/><br>
+
+<img src="img/PXL_20220401_211853837.jpg" alt="" width="600"/><br>
