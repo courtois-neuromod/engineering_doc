@@ -102,6 +102,8 @@ Separate bundle of fiber optics into two smaller bundles of 8 fibers each. Pull 
 <img src="img/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
 Separating fibers bundle with Y splitter
 
+Pull each bundle into the bottom part of casing through openings on the sides and make sure that the sheaths fit nicely on the protruding parts and that you have at least 200 mm length of fibers going into the casing on both sides.
+
 <img src="img/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
 Fibers insertion in casing
 
