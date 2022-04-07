@@ -90,6 +90,10 @@ Before starting assembly, test bottom and top parts of casing for fit. The two h
 <img src="img/PXL_20220323_120717804.jpg" alt="" width="600"/><br>
 Test casing for fit
 
+<img src="img/PostProcess_Bottom.png" alt="" width="400"/> |<img src="img/PostProcess_Top.png" alt="" width="400"/><br>
+Areas commonly requiring post-processing
+
+
 <img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
 Parts ready for assembly
 
