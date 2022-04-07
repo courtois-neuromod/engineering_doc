@@ -85,42 +85,65 @@ Fiber_Sheath_Assembly
 
 <img src="img/Threaded_Inserts.png" alt="Threaded_Inserts" width="600"/><br>
 
-<img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220321_144134479.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220321_184922653.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220322_141919955.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220322_173830800.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220323_120356872.jpg" alt="" width="600"/><br>
-
-<img src="img/PXL_20220323_120503073.jpg" alt="" width="600"/><br>
+Before starting assembly, test bottom and top parts of casing for fit. The two halves should fit together without any visible gap. Common area that might need post processing are the top and bottom of screw posts and the lip that runs around the perimeter of the bottom part, as well as the matching flat surface on the top part. If necessary, file or sand away excess of material that might prevent case from closing properly.
 
 <img src="img/PXL_20220323_120717804.jpg" alt="" width="600"/><br>
+Test casing for fit
+
+<img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
+Parts ready for assembly
+
+<img src="img/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
+Separating fibers bundle with Y splitter
+
+<img src="img/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
+Fibers insertion in casing
+
+<img src="img/PXL_20220321_144134479.jpg" alt="" width="600"/><br>
+Fibers connections and testing
+
+<img src="img/PXL_20220321_184922653.jpg" alt="" width="600"/><br>
+Assembling first pair of controls
+
+<img src="img/PXL_20220322_141919955.jpg" alt="" width="600"/><br>
+Assembling second pair of controls
+
+<img src="img/PXL_20220322_173830800.jpg" alt="" width="600"/><br>
+Assembling third pair of controls
+
+<img src="img/PXL_20220323_120356872.jpg" alt="" width="600"/><br>
+Assembling fourth pair of controls
+
+<img src="img/PXL_20220323_120503073.jpg" alt="" width="600"/><br>
+Add buttons supports
+
+
 
 <img src="img/PXL_20220323_171028876.jpg" alt="" width="600"/><br>
+Installing rubber membranes and shutters
 
 <img src="img/PXL_20220323_171327664.jpg" alt="" width="600"/><br>
+Finished view
 
 <img src="img/PXL_20220323_171418885.jpg" alt="" width="600"/><br>
+Re-install buttons supports
 
 <img src="img/PXL_20220323_171550344.jpg" alt="" width="600"/><br>
+Close casing
 
 <img src="img/PXL_20220323_172005029.jpg" alt="" width="600"/><br>
+Casing closed top view
 
 <img src="img/PXL_20220323_172037025.jpg" alt="" width="600"/><br>
+Install buttons
 
 <img src="img/PXL_20220323_172241888.jpg" alt="" width="600"/><br>
+Finished view
 
 <img src="img/PXL_20220323_172252091.jpg" alt="" width="600"/><br>
+Install direction pad cover and buttons cover
 
 <img src="img/PXL_20220323_173032643.jpg" alt="" width="600"/><br>
+Assembly complete
 
 <img src="img/PXL_20220401_211853837.jpg" alt="" width="600"/><br>
