@@ -97,6 +97,8 @@ Areas commonly requiring post-processing
 <img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
 Parts ready for assembly
 
+Separate bundle of fiber optics into two smaller bundles of 8 fibers each. Pull each smaller bundle through the Y splitter with one small bundle coming out of each of the Y branches. Pull each of the smaller bundle into the 1 meter protective sheath until there is approximately 300 mm of fibers coming out of each sheath.
+
 <img src="img/PXL_20220321_141826371.jpg" alt="" width="600"/><br>
 Separating fibers bundle with Y splitter
 
@@ -120,8 +122,6 @@ Assembling fourth pair of controls
 
 <img src="img/PXL_20220323_120503073.jpg" alt="" width="600"/><br>
 Add buttons supports
-
-
 
 <img src="img/PXL_20220323_171028876.jpg" alt="" width="600"/><br>
 Installing rubber membranes and shutters
