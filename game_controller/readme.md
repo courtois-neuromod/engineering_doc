@@ -54,7 +54,6 @@ Test assembly of shutter, membrane and switch body by inserting the shutter by i
  Since the rubber domes recuperated from computer keyboards will very likely vary in dimensions, it might be necessary to modify shutter cap and shutter blade dimensions. The file [Shutter_Assembly_Param.f3d](CAD/f3d/Shutter_Assembly_Param.f3d) contains these two parts in Autodesk Fusion 360 format. The design is parametric to facilitate modifications. To edit the parts, open the file in **Fusion 360**, go to Modify, then select change parameters and expand User Parameters. Changing the value of parameter *Shutter_Cap_Shaft_Length* will allow to adjust the stroke length, while changing *Shutter_Blade_L* will allow ensuring correct shutter operation. That part is also available in [.step](/CAD/stp/Shutter_Cap.step) format for import in other CAD programs.
 
 <img src="img/f3d_screenshot.png" alt="Parameters edit in Fusion 360" width="600"><br>
-<img src="img/Switch_exploded.png" alt="" width="600"/>
 
 Ensure that the air gap and the fiber optic guide in the 3D printed switch bodies are free of any residual PLA or support material. Hold switch body in front of a light source and check along Z axis for the air gap, and along horizontal axis for the fiber optic guide.
 
@@ -107,8 +106,14 @@ Pull each bundle into the bottom part of casing through openings on the sides an
 <img src="img/PXL_20220321_142636964.jpg" alt="" width="600"/><br>
 Fibers insertion in casing
 
+Strip fibers and polish the fibers. It's possible to use a regular wire stripping tool set for #18 wire size. Insert fibers into switch body so teh tip of the fiber is flush with the internal wall of the air gap. Ensure that the shutter is free to move after the fibers are in place. Use a drop a glue to affix the fibers to the switch body. The type of glue is not critical, but **do not use** cyanoacrylate or other type of _permanent_ glue. These will work, but they will make the switch impossible to repair, which means in case of a broken fiber or other problem, you will need to replace the whole switch.
+
+<img src="img/Switch_exploded.png" alt="" width="600"/></br>
+
 <img src="img/PXL_20220321_144134479.jpg" alt="" width="600"/><br>
 Fibers connections and testing
+
+To assemble the switch inside the casing, it is easier to proceed by pairs, waiting for the glue on the fibers to set before proceeding to the next pair. Proceeding that way allows to move the fibers around to route them cleanly inside the casing without pulling them out from the body of already installed switches. The order is not critical, but it is a lot easier to finish with the pair that's the closest to the opening where the fibers enter the casing.
 
 <img src="img/PXL_20220321_184922653.jpg" alt="" width="600"/><br>
 Assembling first pair of controls
