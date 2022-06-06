@@ -40,6 +40,8 @@ R11 - R29|Resistor|330 Ω between pin 1 & 3
 R21|Resistor| 5 kΩ
 C1 - C8|Capacitor|0.1 µF
 C11,C12|Capacitor|10 µF
-TX1 - TX8|Fiber optic transmitter|SFH756V
-RX1 - RX8|Fiber optic receiver|SFH551V
+TX1 - TX10|Fiber optic transmitter|SFH756V
+RX1 - RX10|Fiber optic receiver|SFH551V
 Teensy 3.5 | Use version 3.5 **NOT 3.6**
+
+TX9,TX10,RX9,RX10 and associated components are optional. They were meant for additional controls not implemented on this version of the controller. They can also be used for troubleshooting purpose or to fix a damaged channel.
