@@ -19,7 +19,7 @@ PCB Side view
 <img src="img/PCB_4.png" alt="" width="600"/><br>
 PCB Side view
 
-Tensy with headers | Teensy on PCB
+Teensy with headers | Teensy on PCB
 ---|---
 <img src="img/PCB_5.png" alt="" width="400"/> |<img src="img/PCB_6.png" alt="" width="400"/>
 
