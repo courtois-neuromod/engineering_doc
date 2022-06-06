@@ -1,5 +1,3 @@
-// Visual Micro is in vMicro>General>Tutorial Mode
-// 
 /*
     Name:       Neuromod_Game_Controller.ino
     Created:	2019-01-08 11:22:35
@@ -145,7 +143,7 @@ void loop()
 				buttonToggled[i] = false;
 			}
 		}
-	}	
+	}
 }
 
 void trgIn()

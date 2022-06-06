@@ -6,7 +6,21 @@ Get Gerber files and send to fab house
 
 ## Assembly
 
-<img src="../img/PCB.png" alt="" width="600"/><br>
+<img src="img/PCB_1.png" alt="" width="600"/><br>
+PCB isometric view
+
+<img src="img/PCB_2.png" alt="" width="600"/><br>
+PCB Top view
+
+<img src="img/PCB_3.png" alt="" width="600"/><br>
+PCB Side view
+
+<img src="img/PCB_4.png" alt="" width="600"/><br>
+PCB Side view
+
+Tensy with headers | Teensy on PCB
+---|---
+<img src="img/PCB_5.png" alt="" width="400"/> |<img src="img/PCB_6.png" alt="" width="400"/>
 
 Schematics | Component| Value
 -----------|----------|---|
