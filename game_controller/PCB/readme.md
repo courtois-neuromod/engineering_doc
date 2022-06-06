@@ -1,4 +1,5 @@
 # PCB assembly instructions
+Get PCB 3D model [here](../CAD/stp/neuromod_game_controller.zip)
 
 ## Ordering PCBs
 
