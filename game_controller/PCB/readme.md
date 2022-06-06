@@ -2,7 +2,7 @@
 
 ## Ordering PCBs
 
-Get Gerber files and send to fab house
+Get Gerber files [here](GerberFiles.zip) and send to fab house
 
 ## Assembly
 
@@ -22,15 +22,23 @@ Tensy with headers | Teensy on PCB
 ---|---
 <img src="img/PCB_5.png" alt="" width="400"/> |<img src="img/PCB_6.png" alt="" width="400"/>
 
+The Teensy board can be mounted either on headers (left) or directly on PCB (right). The first option is recommended as is allows easy replacement in case of damage.
+
+<img src="img/PCB_7.png" alt="" width="600"/><br>
+Adjust potentiometer to be 330 Ω between the two illustrated pins or solder directly a 330 Ω resistor between those pins.
+
+<img src="img/PCB_Layout.png" alt="" width="600"/><br>
+Board layout
+
 Schematics | Component| Value
 -----------|----------|---|
 IC1 - IC5, IC7|Gate driver|SN75451BP
 IC6|Voltage regulator|LM340
-R1 - R8|Resistor| 65 Ω
-R11 - R18|Resistor|330 Ω between pin 1 & 2
+R1 - R10|Resistor| 65 Ω
+R11 - R29|Resistor|330 Ω between pin 1 & 3
 R21|Resistor| 5 kΩ
 C1 - C8|Capacitor|0.1 µF
 C11,C12|Capacitor|10 µF
-TX1 - TX8|Fiber optic transmitter|SP000063814
-RX1 - RX8|Fiber optic receiver|SP000063855
+TX1 - TX8|Fiber optic transmitter|SFH756V
+RX1 - RX8|Fiber optic receiver|SFH551V
 Teensy 3.5 | Use version 3.5 **NOT 3.6**
