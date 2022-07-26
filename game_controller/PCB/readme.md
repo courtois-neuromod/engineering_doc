@@ -6,6 +6,8 @@ Get PCB 3D model [here](../CAD/stp/neuromod_game_controller_v1.zip)
 Get Gerber files [here](GerberFiles.zip) and send to fab house
 
 ## Assembly
+<img src="img/PXL_20220401_211853837.jpg" alt="" width="600"/><br>
+Raw PCB view
 
 <img src="img/PCB_1.png" alt="" width="600"/><br>
 PCB isometric view
