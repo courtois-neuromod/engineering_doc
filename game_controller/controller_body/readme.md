@@ -1,7 +1,7 @@
-# About
-This document describes how to build the MR compatible videogame controller developed for the [Courtois Neuromod project](https://www.cneuromod.ca).
+# Controller body instructions
+This document describes the steps necessary to build and assemble the hand-held controller body part.
 
-# Getting the parts
+## Getting the parts
 Aside from the 3D printed equipment and printed circuit boards, the parts required to build the controller can be obtained from two suppliers; [McMaster-Carr](http://mcmaster.com) and [Digikey](http://digikey.com). It is most likely possible to find other sources for the components, but the part numbers given here are for these two suppliers. The manufacturers names and part numbers are also given when available. The numbers given represent the bare minimum required to build the controller. Getting spares of everything is highly recommended.
 
 ## COTS
@@ -9,9 +9,7 @@ This section details the parts that need to be purchased directly from a supplie
 [BOM.md](BOM.md)
 
 
-# Assembly
-
-## Controller
+## Assembly
 
 ### Optical switches
 
@@ -92,7 +90,7 @@ Test casing for fit
 <img src="img/PostProcess_Bottom.png" alt="" width="400"/> |<img src="img/PostProcess_Top.png" alt="" width="400"/><br>
 Areas commonly requiring post-processing
 
-### Controller assembly
+### Optical fibers assembly
 <img src="img/PXL_20220318_175520012.jpg" alt="" width="600"/><br>
 Parts ready for assembly
 
