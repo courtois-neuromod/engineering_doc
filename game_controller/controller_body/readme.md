@@ -1,4 +1,4 @@
-# Controller body build and assembly
+# Controller body instructions
 This document describes the steps necessary to build and assemble the hand-held controller body part.
 
 ## Getting the parts
